@@ -1,0 +1,80 @@
+.cau1{
+    background-color: rgb(24, 113, 185);
+    color: white;
+    font-size: large;
+    height:300px;
+}
+.image{
+    float: left;
+    padding-left: 100px;
+    padding-top: 71px;
+}
+.imga{
+    height:30px;
+    width: 30px;
+}
+.chu1{
+    padding-top: 117px;
+    font-size: 25px;
+    
+}
+.chu2{
+    font-size: 49px;
+    color: black;
+    text-align: center;
+}
+.chu22{
+    color: rgb(199, 28, 108);
+}
+.bt{
+    font-size: 19px;
+    background-color: black;
+    color: white;
+    width: 169px;
+    height: 50px;
+}r
+.text {
+    font-size: 25px;
+}
+.nen{
+    height: 400px ;
+    width: 1000px;
+    background-image:url(https://a-static.besthdwallpaper.com/dong-truu-tuong-cua-mau-sac-hinh-nen-2560x1600-55881_7.jpg);
+    font-size: 20px;
+    color: white;
+}
+.but{
+    background-color: rgb(212, 50, 50);
+    font-weight: bold;
+    width: 200px;
+    height: 43px;
+    border-color: red;
+    color: white;
+}
+.topc{
+    padding-top: 131px;
+}
+.back{
+    background-color:rgb(214, 207, 207);
+    text-align: center;
+    padding-top: 30px;
+}
+.but1{
+    width: 128px;
+    height: 45px;
+    background-color: skyblue;
+}
+.but2{
+    width: 262px;
+    height: 36px;
+}
+.tron{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border-color: skyblue;
+    background-color:rgb(214, 207, 207);
+}
+.img5{
+    float: left;
+}
